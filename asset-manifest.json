@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21eb6c45.css",
+    "main.js": "/static/js/main.2e3009f5.js",
+    "static/js/453.54eeac8b.chunk.js": "/static/js/453.54eeac8b.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Kanit.ttf": "/static/media/Kanit.dc59e2cb1b0cd03c3ccd.ttf",
+    "static/media/bg.jpg": "/static/media/bg.56edf9b47940f4a9abc5.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/menu.png": "/static/media/menu.c3e8963c9b8cee0b46bf.png",
+    "static/media/Heat pump.png": "/static/media/Heat pump.db5138546c1691266fd2.png",
+    "static/media/Night time.png": "/static/media/Night time.19146de310bc46b36b9a.png",
+    "static/media/Winter mode.png": "/static/media/Winter mode.365a9bb4d6be9d32b809.png",
+    "static/media/Oxygen.png": "/static/media/Oxygen.79941df7dc46e20b42af.png",
+    "index.html": "/index.html",
+    "main.21eb6c45.css.map": "/static/css/main.21eb6c45.css.map",
+    "main.2e3009f5.js.map": "/static/js/main.2e3009f5.js.map",
+    "453.54eeac8b.chunk.js.map": "/static/js/453.54eeac8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21eb6c45.css",
+    "static/js/main.2e3009f5.js"
+  ]
+}
